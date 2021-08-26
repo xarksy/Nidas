@@ -1,5 +1,3 @@
-
-
 #RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=..\..\IconPacks\iconfinder_share-square-o_1608415.ico
